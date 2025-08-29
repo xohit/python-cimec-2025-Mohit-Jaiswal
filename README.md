@@ -9,7 +9,7 @@ To give more context about the work and setup - it includes a rectangular arena,
 
 Manual scoring of these video datas at a sub-second resolution allows us to characterise the different behavioral parameters mentioned before (and in the notebook) with the help of SimBA, and that data allows us to further go ahead and generate transition matrices, ethograms, etc.
 
-Much more details of the work can be found [here]([url](https://www.nature.com/articles/s41598-024-75545-4))!
+Much more details of the work can be found [here]((https://www.nature.com/articles/s41598-024-75545-4))!
 
 So, in the contents of the notebook, you will see I proceeded (with synthetic/ghost data), and how I tried to design network plots, thus informing us about further analysis downstream.
 
